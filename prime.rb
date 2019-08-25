@@ -1,2 +1,1 @@
-def prime?()
-Prime.prime?(3)
+Prime.prime?(8753)
