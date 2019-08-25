@@ -1,6 +1,5 @@
 require 'prime'
 
 def prime?()
-  
-Prime.prime?(2)  
-Prime.prime?(4)
+num = [1..100]
+num.prime?()  
